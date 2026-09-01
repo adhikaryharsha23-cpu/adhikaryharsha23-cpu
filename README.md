@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Harsh%20Adhikary&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=Mechanical%20Design%20%7C%20FEA%20%26%20Simulation%20%7C%20Parametric%20Modeling" width="100%" />
 
@@ -145,21 +146,30 @@ Tracking consistent daily progress and scheduled design iterations across core m
 Led the end-to-end design, drafting, and simulation of high-complexity mechanical assemblies.
 * Engineered a V6 Engine Piston assembly, drafting 2D profiles and modeling 3D stroke motion.
 * Executed advanced FEA Simulation, testing stress distribution and yield strength under dynamic loads.
-* Designed a Double Wishbone Independent Suspension System, creating 2D geometry and modeling markup kinematics.
+* Designed a Double Wishbone Independent Suspension System, creating 2D geometry and modeling A-arm articulation.
 * Developed a 3-Axis Robotic Gripper Assembly Mechanism, executing stress analysis to calculate maximum gripping payload capacity.
 
 `SolidWorks` `AutoCAD` `ANSYS` `FEA` `Kinematics`
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Mechanical Design & Engineering Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhikaryharsha23-cpu&show_icons=true&bg_color=0d1117&title_color=9370DB&text_color=c9d1d9&icon_color=8A2BE2&border_color=4B0082&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhikaryharsha23-cpu&theme=dark&background=0d1117&ring=8A2BE2&fire=9370DB&currStreakLabel=9370DB&border=4B0082&hide_border=true" alt="GitHub Streak" width="48%" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhikaryharsha23-cpu&layout=compact&bg_color=0d1117&title_color=9370DB&text_color=c9d1d9&hide_border=true&langs_count=6&exclude_langs=html,css" alt="Top Languages" width="60%" />
+  <img src="https://img.shields.io/badge/SolidWorks-3D_Parametric_Assemblies-E32227?style=for-the-badge&logo=solid&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-2D_Drafting_%26_Layouts-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANSYS-FEA_Stress_Analysis-F89C1E?style=for-the-badge&logo=ansys&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Computational_Logic-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
+
+<br />
+
+| Engineering Metric | Primary Tool | Application Focus |
+| :--- | :--- | :--- |
+| **Parametric Modeling** | SolidWorks | V6 Engine Piston & Suspension Assemblies |
+| **Finite Element Analysis** | ANSYS | Yield Strength, Stress Distribution & Impact Loading |
+| **Geometric Drafting** | AutoCAD | 2D Schematics & Component Layouts |
+| **Software Scripting** | Python, C++, Java | Algorithmic Problem Solving & Automation |
 
 ---
 
