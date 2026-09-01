@@ -145,7 +145,7 @@ Tracking consistent daily progress and scheduled design iterations across core m
 Led the end-to-end design, drafting, and simulation of high-complexity mechanical assemblies.
 * Engineered a V6 Engine Piston assembly, drafting 2D profiles and modeling 3D stroke motion.
 * Executed advanced FEA Simulation, testing stress distribution and yield strength under dynamic loads.
-* Designed a Double Wishbone Independent Suspension System, creating 2D geometry and modeling A-arm articulation.
+* Designed a Double Wishbone Independent Suspension System, creating 2D geometry and modeling markup kinematics.
 * Developed a 3-Axis Robotic Gripper Assembly Mechanism, executing stress analysis to calculate maximum gripping payload capacity.
 
 `SolidWorks` `AutoCAD` `ANSYS` `FEA` `Kinematics`
@@ -155,10 +155,10 @@ Led the end-to-end design, drafting, and simulation of high-complexity mechanica
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhikaryharsha23-cpu&show_icons=true&bg_color=0d1117&title_color=9370DB&text_color=c9d1d9&icon_color=8A2BE2&border_color=4B0082&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adhikaryharsha23-cpu&show_icons=true&bg_color=0d1117&title_color=9370DB&text_color=c9d1d9&icon_color=8A2BE2&border_color=4B0082&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhikaryharsha23-cpu&theme=dark&background=0d1117&ring=8A2BE2&fire=9370DB&currStreakLabel=9370DB&border=4B0082&hide_border=true" alt="GitHub Streak" width="48%" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhikaryharsha23-cpu&layout=compact&bg_color=0d1117&title_color=9370DB&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhikaryharsha23-cpu&layout=compact&bg_color=0d1117&title_color=9370DB&text_color=c9d1d9&hide_border=true&langs_count=6&exclude_langs=html,css" alt="Top Languages" width="60%" />
 </div>
 
 ---
