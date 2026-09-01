@@ -41,6 +41,7 @@ I am actively seeking a winter/summer research or design internship where I can 
   <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/ANSYS-F89C1E?style=for-the-badge&logo=ansys&logoColor=white" />
   <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
   <br /><br />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -154,27 +155,18 @@ Led the end-to-end design, drafting, and simulation of high-complexity mechanica
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=adhikaryharsha23-cpu&bg_color=0d1117&title_color=9370DB&text_color=c9d1d9&icon_color=8A2BE2&border_color=4B0082&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=adhikaryharsha23-cpu&background=0d1117&ring=8A2BE2&fire=9370DB&currStreakLabel=9370DB&border=4B0082&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adhikaryharsha23-cpu&show_icons=true&bg_color=0d1117&title_color=9370DB&text_color=c9d1d9&icon_color=8A2BE2&border_color=4B0082&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhikaryharsha23-cpu&theme=dark&background=0d1117&ring=8A2BE2&fire=9370DB&currStreakLabel=9370DB&border=4B0082&hide_border=true" alt="GitHub Streak" width="48%" />
   <br /><br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adhikaryharsha23-cpu&layout=compact&bg_color=0d1117&title_color=9370DB&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhikaryharsha23-cpu&layout=compact&bg_color=0d1117&title_color=9370DB&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 🔝 Top Contributed Repo & Daily Motivation
+## ✍️ Daily Motivation
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=adhikaryharsha23-cpu&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="48%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="48%" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhikaryharsha23-cpu&bg_color=0d1117&color=9370DB&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---
